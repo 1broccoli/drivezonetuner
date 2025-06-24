@@ -1,6 +1,6 @@
 # Drive Zone Tuner
 
-If you just want the .exe download releases. you still ned .net 9
+If you just want the .exe download releases. you still need .net 9
 
 Professional Car Tuning Application for Drive Zone
 
