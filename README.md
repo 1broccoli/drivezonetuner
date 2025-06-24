@@ -14,7 +14,7 @@ Drive Zone Tuner is a comprehensive car tuning application designed for Drive Zo
 
 ![image](https://github.com/user-attachments/assets/adff6629-6b1e-41f5-8c02-9e156ea18e5c)
 
-Min / Avg / Max are the gear ratio & the one after that is the KM/H -- will update later.
+Min / Avg / Max are the gear value & the one after that is the KM/H -- will update later.
 
 
 ## ✨ Features
