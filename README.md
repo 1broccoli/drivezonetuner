@@ -1,5 +1,7 @@
 # Drive Zone Tuner
 
+If you just want the .exe download releases. you still ned .net 9
+
 Professional Car Tuning Application for Drive Zone
 
 ![Version](https://img.shields.io/badge/version-0.9.0-blue.svg)
