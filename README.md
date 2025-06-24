@@ -1,21 +1,14 @@
 # Drive Zone Tuner
 
-If you want a simple way to run it, download only releases folder and run the .exe with all the files in the folder.
-
 Professional Car Tuning Application for Drive Zone
 
 ![Version](https://img.shields.io/badge/version-0.9.0-blue.svg)
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-.NET%209.0-purple.svg)
 
 ## 🚗 Overview
 
 Drive Zone Tuner is a comprehensive car tuning application designed for Drive Zone enthusiasts. Create, manage, and export professional tuning templates with support for multiple languages and an intuitive interface.
-
-![image](https://github.com/user-attachments/assets/adff6629-6b1e-41f5-8c02-9e156ea18e5c)
-
-Min / Avg / Max are the gear value & the one after that is the KM/H -- will update later.
-
 
 ## ✨ Features
 
