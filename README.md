@@ -23,6 +23,8 @@ Drive Zone Tuner is a comprehensive car tuning application designed for Drive Zo
 - **Professional Export**: Generate detailed tuning reports in text format
 - **Cross-language Import**: Import templates regardless of export language
 
+![image](https://github.com/user-attachments/assets/0045593e-90d2-4446-8ce2-0c5ae9cdc4e3)
+
 ## 📋 System Requirements
 
 - **OS**: Windows 10/11 (x64)
