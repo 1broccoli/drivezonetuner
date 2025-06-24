@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveZoneApp", "DriveZoneApp\DriveZoneApp.csproj", "{F500E594-ED70-3C78-C38B-9A6DD8E95D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriveZoneTuner", "DriveZoneTuner\DriveZoneTuner.csproj", "{13F45048-1033-B61F-DAC2-34019758C5E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F500E594-ED70-3C78-C38B-9A6DD8E95D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F500E594-ED70-3C78-C38B-9A6DD8E95D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F500E594-ED70-3C78-C38B-9A6DD8E95D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F500E594-ED70-3C78-C38B-9A6DD8E95D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F45048-1033-B61F-DAC2-34019758C5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F45048-1033-B61F-DAC2-34019758C5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F45048-1033-B61F-DAC2-34019758C5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F45048-1033-B61F-DAC2-34019758C5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648E5643-01A7-4BAC-860A-9E26D1526E8E}
+	EndGlobalSection
+EndGlobal

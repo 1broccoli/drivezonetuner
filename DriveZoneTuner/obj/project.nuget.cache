@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/rYs5ssn4s=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 8.0.17)' for 'net8.0-windows7.0'.",
+      "projectPath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "filePath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 8.0.17)' for 'net8.0-windows7.0'.",
+      "projectPath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "filePath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 8.0.17)' for 'net8.0-windows7.0'.",
+      "projectPath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "filePath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Host.win-x64 (= 8.0.17)' for 'net8.0-windows7.0'.",
+      "projectPath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "filePath": "C:\\Users\\Alex\\OneDrive\\Documents\\Drive Zone Online\\DriveZoneTuner\\a\\DriveZoneTuner\\DriveZoneTuner.csproj",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
