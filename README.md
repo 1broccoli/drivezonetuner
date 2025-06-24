@@ -1,5 +1,7 @@
 # Drive Zone Tuner
 
+If you want a simple way to run it. download releases folder and run the .exe with all the files in the folder.
+
 Professional Car Tuning Application for Drive Zone
 
 ![Version](https://img.shields.io/badge/version-0.9.0-blue.svg)
