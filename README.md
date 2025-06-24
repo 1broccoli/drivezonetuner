@@ -3,7 +3,7 @@
 Professional Car Tuning Application for Drive Zone
 
 ![Version](https://img.shields.io/badge/version-0.9.0-blue.svg)
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-.NET%209.0-purple.svg)
 
 ## 🚗 Overview
