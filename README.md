@@ -12,6 +12,9 @@ Professional Car Tuning Application for Drive Zone
 
 Drive Zone Tuner is a comprehensive car tuning application designed for Drive Zone enthusiasts. Create, manage, and export professional tuning templates with support for multiple languages and an intuitive interface.
 
+![image](https://github.com/user-attachments/assets/0ef204f6-3ed7-4e56-941b-b9d7948e3f68)
+1st Min / Avg / Max is gear | 2nd Min, Avg, Max is KM/H
+
 ## ✨ Features
 
 - **Comprehensive Tuning Controls**: Complete gearbox, differential, suspension, and performance tuning
