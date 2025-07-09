@@ -99,7 +99,7 @@ This project is proprietary software with All Rights Reserved - see the [LICENSE
 
 ## 👨‍💻 Author
 
-**ᴅᵤʙ Broccoli**
+**Broccoli**
 - GitHub: [@drivezoneapp](https://github.com/drivezoneapp)
 - Website: [http://github.com/drivezoneapp](http://github.com/drivezoneapp)
 
